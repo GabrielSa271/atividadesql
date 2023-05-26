@@ -1,1 +1,1 @@
-# RDScMYSQL-EC2cMARIADB
+# atividadesql
